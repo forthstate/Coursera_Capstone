@@ -9,4 +9,3 @@ Files include:
 - Data obtained from public UK government website. 
 - A jupyter Python Notebook that builds prediction models and their subsequent assessments.
 - A report of the project and its conclusions.
-- A presentation to help convey the results.
