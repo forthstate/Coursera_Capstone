@@ -6,6 +6,5 @@ This Repository will be populated by all the files required for the project :
 ## How severe could a Car-Crash be in UK ?
 
 Files include:
-- Data obtained from public UK government website. 
 - A jupyter Python Notebook that builds prediction models and their subsequent assessments.
 - A report of the project and its conclusions.
